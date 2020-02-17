@@ -1,8 +1,18 @@
 # Jigsaw Blog Dark Starter Template
 
-This is a starter template for creating a beautiful, customizable blog in Jigsaw with minimal effort. You’ll only have to change a few settings and you’re ready to go.
+This is a dark-themed remix of the [Jigsaw Blog Starter Template](https://github.com/tighten/jigsaw-blog-template).
 
 [View a preview of the blog template.](http://jigsaw-blog-staging.tighten.co/)
+
+---
+
+![Blog dark starter template screenshot](https://user-images.githubusercontent.com/20649108/74672987-460e8880-51a6-11ea-96c4-43a395d8be26.png)
+
+---
+
+# Original template README
+
+This is a starter template for creating a beautiful, customizable blog in Jigsaw with minimal effort. You’ll only have to change a few settings and you’re ready to go.
 
 ## Installation
 
@@ -23,12 +33,6 @@ This starter template includes samples of common page types, and comes pre-confi
 - A component for accepting signups for a [Mailchimp](https://mailchimp.com/) newsletter
 - A sample contact form
 - A search bar powered by [Fuse.js](http://fusejs.io/) and [Vue.js](https://vuejs.org/), which indexes your content automatically and requires zero configuration
-
----
-
-![Blog dark starter template screenshot](https://user-images.githubusercontent.com/20649108/74672987-460e8880-51a6-11ea-96c4-43a395d8be26.png)
-
----
 
 ### Configuring your new site
 
