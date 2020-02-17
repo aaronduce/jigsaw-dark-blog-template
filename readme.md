@@ -16,10 +16,10 @@ This is a starter template for creating a beautiful, customizable blog in Jigsaw
 
 ## Installation
 
-After installing Jigsaw, run the following command from your project directory:
+Clone the repository and install npm/composer.
 
 ```bash
-./vendor/bin/jigsaw init blog
+git clone https://github.com/aaronduce/jigsaw-dark-blog-template && composer install && npm install && npm run watch
 ```
 
 This starter template includes samples of common page types, and comes pre-configured with:
