@@ -1,7 +1,7 @@
 {
-    "name": "tightenco/jigsaw-blog-template",
-    "description": "Blog starter template for Jigsaw static site generator by Tighten",
-    "keywords": ["blog", "starter", "template", "jigsaw", "static", "site", "generator"],
+    "name": "aaronduce/jigsaw-dark-blog-template",
+    "description": "A dark-themed remix of Jigsaw's blog template.",
+    "keywords": ["blog", "starter", "template", "jigsaw", "static", "site", "generator", "dark"],
     "license": "MIT",
     "authors": [
         {
@@ -15,6 +15,10 @@
         {
             "name": "Matt Stauffer",
             "email": "matt@tighten.co"
+        },
+        {
+            "name": "Aaron Duce",
+            "email": "aaronduce@lymelite.co.uk"
         }
     ],
     "require": {
