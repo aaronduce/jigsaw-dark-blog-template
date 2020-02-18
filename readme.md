@@ -2,7 +2,7 @@
 
 This is a dark-themed remix of the [Jigsaw Blog Starter Template](https://github.com/tighten/jigsaw-blog-template).
 
-[View a preview of the blog template.](http://jigsaw-blog-staging.tighten.co/)
+[View a preview of the blog template.](https://jigsaw-dark-blog-template.aaronduce.com)
 
 ---
 
