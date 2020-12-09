@@ -15,8 +15,8 @@
         "extra-watch-webpack-plugin": "^1.0.3",
         "fuse.js": "^3.3.0",
         "hasbin": "^1.2.3",
-        "highlight.js": "^9.13.1",
-        "laravel-mix": "^4.0.0",
+        "highlight.js": ">=10.4.1",
+        "laravel-mix": "^5.0.9",
         "laravel-mix-purgecss": "^3.0.0",
         "node-cmd": "^3.0.0",
         "sass": "^1.15.2",
@@ -24,6 +24,6 @@
         "tailwindcss": "^1.0.4",
         "vue": "^2.5.21",
         "vue-template-compiler": "^2.5.21",
-        "yargs": "^4.6.0"
+        "yargs": "^16.2.0"
     }
 }
